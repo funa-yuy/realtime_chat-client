@@ -101,6 +101,14 @@ h2 {
 	padding: 16px 0;
 }
 
+textarea {
+	background-color: var(--color-input-background);
+	outline: solid 0.1rem var(--color-input-border);
+	border-radius: 0.25rem;
+	padding: 0.5rem 1rem;
+	resize: none;
+}
+
 /* 双方向チャット -------------------------------------------------------- */
 
 #form {
