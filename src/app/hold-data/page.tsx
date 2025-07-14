@@ -18,7 +18,8 @@ export default function HoldData() {
 			<h1>文字列データ保持</h1>
 			<div className="send-form">
 				<form onSubmit={handleSubmit}>
-					<input type="text"
+					<input
+						type="text"
 						placeholder="テキストを入力してください"
 						value={text}
 						onChange={e => setText(e.target.value)}
