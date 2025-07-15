@@ -1,0 +1,41 @@
+.storage-status {
+	margin: 20px 0;
+	padding: 20px;
+	border: 1px solid var(--color-input-border);
+}
+
+.storage-status h3 {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.storage-status ul,
+p {
+	list-style-type: none;
+	padding: 0;
+	color: #0011ff;
+}
+
+.storage-status li {
+	padding: 8px 12px;
+	margin: 5px 0;
+	background-color: var(--color-input-background);
+}
+
+.btn.primary {
+	background-color: #007bff;
+	color: white;
+}
+
+.btn.primary:hover {
+	background-color: #0056b3;
+}
+
+.btn.danger {
+	background-color: #dc3545;
+	color: white;
+}
+
+.btn.danger:hover {
+	background-color: #c82333;
+}
