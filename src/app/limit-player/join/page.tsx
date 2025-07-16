@@ -4,7 +4,7 @@ import Link from 'next/link';
 import LimitPlayer from '../components/LimitPlayer';
 import '../styles.css';
 
-export default function LimitGamePage() {
+export default function LimitJoinPage() {
 	return (
 		<div className="limit-container">
 			<h1>2人制限ゲーム</h1>
@@ -12,7 +12,7 @@ export default function LimitGamePage() {
 			<LimitPlayer />
 
 			<div className="btn-wrapper">
-				<Link href="/limit" className="btn">
+				<Link href="/limit-player" className="btn">
 					戻る
 				</Link>
 			</div>

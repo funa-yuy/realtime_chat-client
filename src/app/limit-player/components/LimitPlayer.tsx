@@ -77,7 +77,7 @@ export default function LimitPlayer() {
 			socket.disconnect();
 		}
 		// 擬似TOPページに戻る
-		router.push('/limit');
+		router.push('/limit-player');
 	};
 
 	// 接続中の表示

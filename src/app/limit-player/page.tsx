@@ -14,7 +14,7 @@ export default function LimitTopPage() {
 			</div>
 
 			<div className="btn-wrapper">
-				<Link href="/limit/game" className="btn">
+				<Link href="/limit-player/join" className="btn">
 					ゲームに参加
 				</Link>
 			</div>
