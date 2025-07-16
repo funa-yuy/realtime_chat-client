@@ -19,6 +19,7 @@ export default function First() {
 					<li><Link href="./character-limit">入力文字数に制限をかける機能</Link></li>
 					<li><Link href="./scroll">部分的なスクロール</Link></li>
 					<li><Link href="./reset">ストレージリセット機能</Link></li>
+					<li><Link href="./limit-player">2人制限ゲーム</Link></li>
 				</ul>
 			</div>
 		</div >
