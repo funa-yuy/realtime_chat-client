@@ -20,6 +20,7 @@ export default function First() {
 					<li><Link href="./scroll">部分的なスクロール</Link></li>
 					<li><Link href="./reset">ストレージリセット機能</Link></li>
 					<li><Link href="./limit-player">2人制限ゲーム</Link></li>
+					<li><Link href="./progress-bar">進捗バー</Link></li>
 				</ul>
 			</div>
 		</div >
