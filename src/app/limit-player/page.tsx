@@ -8,7 +8,7 @@ export default function LimitTopPage() {
 		<div className="limit-container">
 			<h1>アクセスする人数を制限</h1>
 
-			<div className="description">
+			<div>
 				<p>このゲームは最大2人まで参加できます。</p>
 				<p>「ゲームに参加」ボタンを押してゲームを開始してください。</p>
 			</div>
