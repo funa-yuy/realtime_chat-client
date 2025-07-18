@@ -21,6 +21,7 @@ export default function First() {
 					<li><Link href="./reset">ストレージリセット機能</Link></li>
 					<li><Link href="./limit-player">2人制限ゲーム</Link></li>
 					<li><Link href="./progress-bar">進捗バー</Link></li>
+					<li><Link href="./sync-session">セッションIDなしの同期機能</Link></li>
 				</ul>
 			</div>
 		</div >
